@@ -55,7 +55,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Mechanics\PlayerRespawn.cs" />
     <Compile Include="Assets\Scripts\Mechanics\PlayerController.cs" />
-    <Compile Include="Assets\Scripts\GrappleHit.cs" />
+    <Compile Include="Assets\Scripts\Mechanics\GrappleHit.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
