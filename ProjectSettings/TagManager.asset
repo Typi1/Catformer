@@ -7,6 +7,7 @@ TagManager:
   - Ground
   - Sticky
   - Avatar
+  - Grapple Point
   layers:
   - Default
   - TransparentFX
@@ -41,6 +42,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BG
+    uniqueID: 1655737369
+    locked: 0
+  - name: Behind
+    uniqueID: 3966522935
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
